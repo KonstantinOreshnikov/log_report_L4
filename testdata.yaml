@@ -1,0 +1,23 @@
+website1: https://test-stand.gb.ru/gateway/login
+website_get_posts: https://test-stand.gb.ru/api/posts
+website_create_post: https://test-stand.gb.ru/gateway/posts
+username: Marcus_D
+password: 8bc3c61f89
+title_test_rest: Cyberpunk 2077 is an open-world, action-adventure RPG set in the megalopolis of Night City
+title_create_rest: post something
+description_create_rest: new post
+content_create_rest: content
+address: http://test-stand.gb.ru
+sleep_time: 1
+browser: chrome
+implicitly_wait: 5
+email: Marcus_D
+title: fantastic title
+description: perfect description
+content: very interesting content
+contact_name: Someone
+contact_email: Test@gmail.com
+contact_content: Test Content
+from_email: marcus_dee@mail.ru
+to_email: marcus_dee@mail.ru@mail.ru
+pass_email: *************************
